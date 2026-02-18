@@ -12,10 +12,10 @@ Index Range (K)	Fit Description	Visual Style\
 < 4.0	Oversized	Bold, \
 4.0 — 4.5	Sporty/Bold	\
 4.5 — 5.0	Golden Ratio\
-5.0	Understated\
+5.0	Understate
 > **Installation & Usage 💻**\
     - Ensure you have Python 3.14 or later installed.\
     - Download the chronolink.py file.\
     - Run the application via terminal:\
 (python chronolink.py)\
-> Follow the on-screen prompts to enter your wrist size and select a model.\
+> Follow the on-screen prompts to enter your wrist size and select a model.
