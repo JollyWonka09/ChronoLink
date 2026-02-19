@@ -1,5 +1,5 @@
 # ChronoLink ⌚
-
+author: Nilov Hlib 2RP-11
 **ChronoLink** is a lightweight, console-based Python application that assists potential customers in finding their ideal watch size. Based on the wrist size of the customer and a database of technical specifications, the application computes a precision **Fit Index** to guarantee the best possible style and comfort.
 
 ## 📝 Project Pitch
